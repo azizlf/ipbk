@@ -2544,17 +2544,24 @@
 
 .client-app .content-page .impact-social-project-app .comment .text {
 
-    font-size: 1.2vw;
-    line-height: 2vw;
+    font-size: 1.5vw;
+    line-height: 2.5vw;
     color: #393939;
     width: 70%;
 
 }
 
+.client-app .content-page .impact-social-project-app .comment .text span {
+
+    font-weight: 800;
+    padding-bottom: 3%;
+
+}
+
 .client-app .content-page .impact-social-project-app .comment .img {
 
-    width: 30%;
-    padding: 10% 0;
+    width: 29%;
+    padding: 9% 0;
     border-radius: 1vw;
     background-position: center;
     background-repeat: no-repeat;
@@ -4045,7 +4052,7 @@
         margin-bottom: 29%;
     }
 
-    .client-app .content-page .dashbord-app .sc .ft-sc{
+    .client-app .content-page .dashbord-app .sc .ft-sc {
         height: auto;
     }
 
@@ -4068,7 +4075,7 @@
         padding-bottom: 3.8%;
     }
 
-    .client-app .content-page .dashbord-app .sc .hm{
+    .client-app .content-page .dashbord-app .sc .hm {
         height: auto;
     }
 
